@@ -1,0 +1,28 @@
+.flexbox {
+    width: 120%;
+    margin: 0;
+    margin-left: -10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.w33 {
+    width: 33%;
+}
+
+.h500 {
+    height: 500px;
+}
+
+.fs28 {
+    font-size: 28px;
+}
+
+.fs24 {
+    font-size: 24px;
+}
+
+.tl {
+    text-align: left;
+}
